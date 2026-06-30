@@ -1,0 +1,22 @@
+========================================
+         REGISTRO DE VENTAS         
+      (DOCUMENTO COMERCIAL)         
+========================================
+TICKET NRO: 0017
+FECHA: 2026-06-22 00:56:08
+METODO PAGO: Transferencia
+----------------------------------------
+CANT  | PRODUCTO             | SUBT    
+----------------------------------------
+1     | Tijera Escolar       | $600.00 
+1     | Goma de Borrar Blanc | $150.00 
+1     | Pegamento en Barra 4 | $300.00 
+1     | Pack Cartulinas de C | $1000.00
+1     | Pepsi 500ml          | $1200.00
+1     | Caja de Clips Metáli | $450.00 
+3     | Cuaderno Universitar | $3600.00
+----------------------------------------
+TOTAL: $7300.00
+========================================
+       GRACIAS POR SU COMPRA        
+========================================

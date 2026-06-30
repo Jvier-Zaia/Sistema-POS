@@ -1,0 +1,21 @@
+========================================
+         REGISTRO DE VENTAS         
+      (DOCUMENTO COMERCIAL)         
+========================================
+TICKET NRO: 0021
+FECHA: 2026-06-22 01:18:06
+METODO PAGO: Efectivo
+----------------------------------------
+CANT  | PRODUCTO             | SUBT    
+----------------------------------------
+1     | Resaltador Fluo Amar | $350.00 
+1     | Caja de Clips Metáli | $450.00 
+1     | Tijera Escolar       | $600.00 
+1     | Pegamento en Barra 4 | $300.00 
+1     | Regla de Acero 30cm  | $800.00 
+1     | Marcador Permanente  | $400.00 
+----------------------------------------
+TOTAL: $2900.00
+========================================
+       GRACIAS POR SU COMPRA        
+========================================

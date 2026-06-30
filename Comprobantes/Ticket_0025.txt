@@ -1,0 +1,19 @@
+========================================
+         REGISTRO DE VENTAS         
+      (DOCUMENTO COMERCIAL)         
+========================================
+TICKET NRO: 0025
+FECHA: 2026-06-22 01:35:08
+METODO PAGO: Transferencia
+----------------------------------------
+CANT  | PRODUCTO             | SUBT    
+----------------------------------------
+2     | Resaltador Fluo Amar | $700.00 
+1     | Yerba Mate 1Kg       | $4800.00
+1     | Cuaderno Universitar | $1200.00
+1     | Tijera Escolar       | $600.00 
+----------------------------------------
+TOTAL: $7300.00
+========================================
+       GRACIAS POR SU COMPRA        
+========================================
